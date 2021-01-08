@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770346571055",
+    "firebase_url": "https://medbay360.firebaseio.com",
+    "project_id": "medbay360",
+    "storage_bucket": "medbay360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770346571055:android:92db3e9550d44219e87dda",
+        "android_client_info": {
+          "package_name": "com.example.medbay_360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770346571055-sgl4clltcj1vab1lg7h5kqh851smpd45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medbay_360",
+            "certificate_hash": "4d9db7f26989f643f14160da98627276217378bc"
+          }
+        },
+        {
+          "client_id": "770346571055-9b2hlnihue1bh8pp24fga9ck6s2qvrof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYd8IwhKmHAkFrPL4o87wjM8hCGeI5iww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770346571055-9b2hlnihue1bh8pp24fga9ck6s2qvrof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
